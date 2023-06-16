@@ -1,0 +1,15 @@
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/bin/Debug/net6.0/Introduction_HomeTask
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/bin/Debug/net6.0/Introduction_HomeTask.deps.json
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/bin/Debug/net6.0/Introduction_HomeTask.runtimeconfig.json
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/bin/Debug/net6.0/Introduction_HomeTask.dll
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/bin/Debug/net6.0/Introduction_HomeTask.pdb
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/Introduction_HomeTask.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/Introduction_HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/Introduction_HomeTask.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/Introduction_HomeTask.AssemblyInfo.cs
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/Introduction_HomeTask.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/Introduction_HomeTask.dll
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/refint/Introduction_HomeTask.dll
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/Introduction_HomeTask.pdb
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/Introduction_HomeTask.genruntimeconfig.cache
+/Users/shahrom/Desktop/Introduction_HomeTask/Introduction_HomeTask/obj/Debug/net6.0/ref/Introduction_HomeTask.dll
